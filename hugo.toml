@@ -4,4 +4,4 @@ title = 'CW Notes'
 theme = 'nostyleplease'
 
 [params]
-  favicon = 'img/favicon.png'
+  favicon = '/img/favicon.png'
