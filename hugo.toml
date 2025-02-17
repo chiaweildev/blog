@@ -2,3 +2,6 @@ baseURL = 'https://chiaweildev.github.io/'
 languageCode = 'zh-tw'
 title = 'CW Notes'
 theme = 'nostyleplease'
+
+[params]
+  favicon = 'img/favicon.png'
